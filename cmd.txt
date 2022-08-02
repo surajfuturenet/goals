@@ -1,0 +1,29 @@
+npm init
+npm install express dotenv mongoose colors
+npm install -D nodemon
+npm install express-async-handler
+
+npm install bcryptjs
+npm i jsonwebtoken
+
+jwt.io
+
+npx create-react-app frontend --template redux
+
+cd frontend
+
+npm i react-router-dom
+
+npm i react-icons
+
+(in root)
+npm i -D concurrently 
+
+root
+npm i axios react-toastify
+
+frontend
+npm install http-proxy-middleware --save
+
+
+
